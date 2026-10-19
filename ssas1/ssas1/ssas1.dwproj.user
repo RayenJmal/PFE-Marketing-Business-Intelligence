@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>PFE DW</Id>
+            <Name>PFE DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATwtFKjQmE0qGmdZMBca4IgAAAAAOAAAAUABGAEUAIABEAFcAAAAQZgAAAAEAACAAAAAqQ0uZkTba9mIbRAD9cksQR1KF2aXsWli4meGrpT17pAAAAAAOgAAAAAIAACAAAACTCeOtufPV1RLi0J015u0q2S6bVCPywzfNfwqj90ze2BAAAABkM+jUupAEwoElt5h4LNxbQAAAAOMalY/B27XXunfcHaSSuRJXnpdax3ACEg2X2I3KA7FJhp11cRdVxOq0v2wmpOfYzp1V2ugf/lDhU7LZiY1/Jqk=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>PFE DW</Id>
+            <Name>PFE DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATwtFKjQmE0qGmdZMBca4IgAAAAAOAAAAUABGAEUAIABEAFcAAAAQZgAAAAEAACAAAAAB1dMG71IdOhJai7FKS5UBU2Q/S9F7Kufz3hIxjUF2DgAAAAAOgAAAAAIAACAAAAC8HvPBCZV798nMWMYM5lj6mMnND76dHDfM2WNLRZqTVRAAAAC79hrmlzWpNOJuh9gcfZb6QAAAAIrZAXp83NfZNiYN0Km3iArQ79/j0AJjPENdiMjdjfic6EOo/SZAoj/k5A66MIN1Ygyjqmotb78gbn0ex9URql0=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>DESKTOP-FJSNV2C\PFE</TargetServer>
+        <TargetDatabase>ssas1</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
